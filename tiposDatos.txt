@@ -1,0 +1,9 @@
+Primitivos
+No es un objeto y son inmutables
+
+Boolean: TRUE/FALSE
+NULL: sin valro absoluto
+Undefined: Una variable declarada que aun no se le asigna valor
+Number: integers, float etc.
+String: Cadena de caracteres
+Symbol: Es un valor unico que no es igual a ningun otro valor 

@@ -1,0 +1,28 @@
+Notas
+-No es recomendable incluir codigo JavaScript en la hoja de HTML,
+es mejor tenerlo en un .js aparte y llamarlo en el HTML
+
+-Al llamar los script en el HTML, es recomendable llamarlos al
+final de la pagina, antes del </body>, ya que al cargar la pagina 
+por primera vez, es mejor que cargue los estilos CSS, y no que 
+se enfoque en los script.
+En ocaciones es bueno ponerlo en el head, dependiendo de como lo necesitemos utilizar
+
+
+-lo que va despues del metodo es un metodo EJM:
+console.log('hola');
+->El log seria el metodo
+
+-Lo que vemos en parentesis, puede ser una funcion o un metodo
+
+
+metodo
+Es una funcion que se encuentra dentro de un objeto
+
+polifill
+Es un codigo que provee funcionamiento de una nueva caracteristica
+de javascript(ES&), en versiones viejas
+
+
+
+Diferencias entre VAR y LET

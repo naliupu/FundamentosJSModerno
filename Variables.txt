@@ -1,0 +1,29 @@
+Variable
+Es un contenedor de informacion que apunta a un lugar en memoria
+
+
+Maneras de definir una variable
+let, var, const
+
+
+Constante:
+Ees un valor en memoria, que no podra cambiar
+
+OJO
+Nunca utilizar VAR para definir las variables, en lugar de VAR
+utilizamos siempre LET
+
+al utilizar el VAR estariamos realizando una mala practica
+y las varibles siempre quedaran en el objeto window, que es donde
+corre JavaScript, y estariamos cada vez saturando mas a JavaScript
+
+
+VAR : sobrescribe el valor de las varibles propias de JavaScript
+guarda las variable en el objeto window
+
+- si llamamos una variable antes de inicializarla JavaScript la muestra undefined y no nos muestra un error
+
+LET : No sobrescribe las varibles y no las guarda en el objeto windows 
+-Si llamamos una variable que esta definida mas abajo JavaScript nos muestra el error de que no esta inicializada antes
+
+

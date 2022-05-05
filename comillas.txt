@@ -1,0 +1,8 @@
+Diferencias entre las comillas
+
+
+Se aconseja utilizar comillas sencillas ya que es mas liviana para el navegador, pero en ocaciones las dobles son mas utiles p
+
+Sencillas: ''
+Dobles: ""
+Invertidas o baketik: ``
